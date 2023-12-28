@@ -55,3 +55,7 @@ serve -s build
 ```
 
 #### The Build Project Server should now be running at http://localhost:3000/ 
+
+## Live Demo
+
+Visit: [https://reactjs-github-finder.vercel.app/](https://reactjs-github-finder.vercel.app/)
